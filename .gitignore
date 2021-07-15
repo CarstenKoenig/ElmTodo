@@ -1,0 +1,7 @@
+.idea/
+.cache/
+/elm-stuff
+/.vscode
+/node_modules
+/.parcel-cache
+/dist

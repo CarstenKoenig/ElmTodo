@@ -1,0 +1,50 @@
+.todo-list a {
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+}
+
+.open-count {
+    position: absolute;
+    padding: 15px;
+    line-height: 1.2;
+    color: lightgray;
+}
+
+.navbar {
+    height: 60px;
+    background-color: gainsboro;
+    border: 1px solid darkgray;
+    padding: 10px 20px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.logout-btn {
+    color: rgba(175, 47, 47, 0.15);
+    float: right;
+    font-size: 24px;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+h2, h3, h4, h5, h6 {
+    color: rgba(175, 47, 47, 0.15);
+}
+
+.navbar h2 {
+    float: left
+}
+
+.navbar span {
+    padding: 18px;
+}
+
+.todoapp h1 {
+    top: -170px;
+}
